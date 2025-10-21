@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Generated files
+dist/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
